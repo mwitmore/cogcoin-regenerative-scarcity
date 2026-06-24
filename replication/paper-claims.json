@@ -1,0 +1,107 @@
+{
+  "paper": {
+    "title": "When Every Winner Is Public: Gates, Geometry, and Competition in Proof-of-Language Mining",
+    "observation_window": { "height_min": 941224, "height_max": 951464, "blocks": 6834 }
+  },
+  "claims": [
+    {
+      "id": "obs5_principal_angle_deg",
+      "section": "§4 / Observation 5",
+      "description": "Top H1���H2 principal angle (degrees)",
+      "path": "data/research/s2-random-valid/f46-h1h2-subspace.json",
+      "json": "principal_angles.angle_deg[0]",
+      "expected": 4.36,
+      "tolerance": 0.5
+    },
+    {
+      "id": "obs5_ceiling_frac",
+      "section": "§4 / Observation 5",
+      "description": "Random-best as fraction of chain-best blend",
+      "path": "data/research/s2-random-valid/f46-h1h2-subspace.json",
+      "json": "blend_ceiling.random_best_as_frac_of_chain_best",
+      "expected": 0.8559,
+      "tolerance": 0.01
+    },
+    {
+      "id": "obs4b_chain_mean_blend",
+      "section": "§4 / Observation 4b",
+      "description": "Chain rank-1 mean blend (millions)",
+      "path": "data/research/s2-random-valid/s2-analysis-summary.json",
+      "json": "blend.chain.mean",
+      "expected": 416428007,
+      "tolerance": 2000000
+    },
+    {
+      "id": "obs4b_random_mean_blend",
+      "section": "§4 / Observation 4b",
+      "description": "Random-valid mean blend",
+      "path": "data/research/s2-random-valid/s2-analysis-summary.json",
+      "json": "blend.random.mean",
+      "expected": 412838170,
+      "tolerance": 2000000
+    },
+    {
+      "id": "obs4a_chain_pr",
+      "section": "§4 / Observation 4a",
+      "description": "Chain winner participation ratio",
+      "path": "data/research/a4-effective-rank/summary.json",
+      "json": "chain.participation_ratio",
+      "expected": 13.791,
+      "tolerance": 0.2
+    },
+    {
+      "id": "obs4a_random_pr",
+      "section": "§4 / Observation 4a",
+      "description": "Random-valid participation ratio",
+      "path": "data/research/a4-effective-rank/summary.json",
+      "json": "random.participation_ratio",
+      "expected": 11.3057,
+      "tolerance": 0.2
+    },
+    {
+      "id": "obs6_svo_gate_pass",
+      "section": "§5 / Observation 6",
+      "description": "SVO action-narrative gate pass rate",
+      "path": "data/research/tier3-form-tolerance/summary.json",
+      "json": "families.action_narrative.gate_pass_rate",
+      "expected": 0,
+      "tolerance": 0.001
+    },
+    {
+      "id": "obs6_plain_decl_gate_pass",
+      "section": "§5 / Observation 6",
+      "description": "Plain declarative gate pass rate",
+      "path": "data/research/tier3-form-tolerance/summary.json",
+      "json": "families.plain_declarative.gate_pass_rate",
+      "expected": 0.987,
+      "tolerance": 0.02
+    },
+    {
+      "id": "obs9_margin_median",
+      "section": "§6 / Observation 9",
+      "description": "Median rank-1 vs rank-2 margin (fraction)",
+      "path": "data/research/f44b-winner-margin/summary.json",
+      "json": "margin.median",
+      "expected": 0.0355,
+      "tolerance": 0.003
+    },
+    {
+      "id": "obs10_eff_winners",
+      "section": "§6 / Observation 10",
+      "description": "Effective number of W-winners (champion pool)",
+      "path": "data/research/f44c-counterfactual-w/summary.json",
+      "json": "summary.effective_number_of_winners",
+      "expected": 6.65,
+      "tolerance": 0.3
+    },
+    {
+      "id": "obs3_pc1_stability",
+      "section": "§4 / Observation 3 (S1)",
+      "description": "Bootstrap mean |cos| PC1 vs F26 reference",
+      "path": "data/research/s1-pca-bootstrap/summary.json",
+      "json": "per_pc_absCos[0].mean",
+      "expected": 0.9991,
+      "tolerance": 0.005
+    }
+  ]
+}

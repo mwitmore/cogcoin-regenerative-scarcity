@@ -1,0 +1,36 @@
+{
+  "name": "cogcoin-regenerative-scarcity",
+  "version": "1.0.0",
+  "description": "Replication package for Wasting Assets and Regenerative Scarcity (Witmore 2026).",
+  "type": "module",
+  "license": "MIT",
+  "author": "Michael Witmore <witmore@witmoreconsulting.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mwitmore/cogcoin-regenerative-scarcity.git"
+  },
+  "scripts": {
+    "reproduce": "node bin/reproduce.mjs",
+    "reproduce:full": "node bin/reproduce.mjs --full",
+    "f26": "node scripts/f26-judge-covariance.mjs",
+    "s1": "node scripts/s1-pca-bootstrap.mjs",
+    "a4": "node scripts/a4-effective-rank.mjs",
+    "s2": "node scripts/s2-project-on-f26.mjs",
+    "f46": "node scripts/f46-h1h2-subspace.mjs",
+    "f44b": "node scripts/f44b-winner-margin-template.mjs",
+    "f44c": "node scripts/f44c-counterfactual-w.mjs",
+    "f44-gate": "node scripts/tier3-form-tolerance.mjs",
+    "f4": "node scripts/verify-blendseed.mjs",
+    "f28": "python3 scripts/f28-temporal-stability.py"
+  },
+  "dependencies": {
+    "@cogcoin/scoring": "^1.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

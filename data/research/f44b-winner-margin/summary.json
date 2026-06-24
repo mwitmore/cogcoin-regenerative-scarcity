@@ -1,0 +1,138 @@
+{
+  "total_blocks_with_rank2": 5931,
+  "total_rank1_wins": 8120,
+  "distinct_templates": 4713,
+  "margin": {
+    "mean": 0.050503889297595105,
+    "median": 0.035499839421513295,
+    "p10": 0.006148981873670608,
+    "p90": 0.11602075526436822,
+    "frac_below_0p5pct": 0.0819423368740516,
+    "frac_below_1pct": 0.16641375821952453,
+    "frac_below_2pct": 0.30989715056482886,
+    "frac_below_5pct": 0.635306019221042
+  },
+  "HHI_winShare": 221.44070470037965,
+  "top_templates": [
+    {
+      "skel": "it is _ of the _ _ _ of the _ _ in the _ of the _",
+      "wins": 977,
+      "winShare": 0.12032019704433497,
+      "rewardShare": 0.10166181374461625,
+      "medianMargin": 0.02814684204888415,
+      "example": "It is one of the faint cup practices of the slide dose in the cricket of the Society."
+    },
+    {
+      "skel": "it was _ of the _ _ _ of the _ _ in the _ of the _",
+      "wins": 472,
+      "winShare": 0.05812807881773399,
+      "rewardShare": 0.04982701622349192,
+      "medianMargin": 0.027908859490872105,
+      "example": "It was one of the novel zero methods of the fame oval in the cousin of the Society."
+    },
+    {
+      "skel": "the _ _ is _ of the _ _ _ of the _ in the _ _",
+      "wins": 384,
+      "winShare": 0.04729064039408867,
+      "rewardShare": 0.04530037252654947,
+      "medianMargin": 0.032538447697207866,
+      "example": "The ugly ostrich is one of the pear marriage houses of the Uncle in the marriage valley."
+    },
+    {
+      "skel": "i _ the _ _ the _ the _ between the _ _ i _ the _ _ what _ i",
+      "wins": 247,
+      "winShare": 0.03041871921182266,
+      "rewardShare": 0.023226972638396848,
+      "medianMargin": 0.037275131141772874,
+      "example": "I am the fit among the kitchen, the bronze between the balance, yet I have the impulse still, what am I?"
+    },
+    {
+      "skel": "this is _ of the _ _ _ of the _ _ in the _ of the _",
+      "wins": 169,
+      "winShare": 0.0208128078817734,
+      "rewardShare": 0.017827227067601183,
+      "medianMargin": 0.024704957264174963,
+      "example": "This is one of the great pony methods of the cradle tomato in the top of the Society."
+    },
+    {
+      "skel": "it is _ of the _ _ _ that the _ _ _ the _ the the this",
+      "wins": 99,
+      "winShare": 0.012192118226600985,
+      "rewardShare": 0.010822435795080524,
+      "medianMargin": 0.042532260174976015,
+      "example": "It is one of the depth timber events that the dutch away trees the cross the the This."
+    },
+    {
+      "skel": "it was _ of the _ _ _ _ of the _ _ in the _ of the _",
+      "wins": 81,
+      "winShare": 0.009975369458128078,
+      "rewardShare": 0.00796313348607216,
+      "medianMargin": 0.03915293162101072,
+      "example": "It was one of the quiet festival recycle methods of the tone quantum in the north of the House."
+    },
+    {
+      "skel": "i _ the _ _ the _ the _ between the _ _ i _ _ _ what _ i",
+      "wins": 74,
+      "winShare": 0.009113300492610837,
+      "rewardShare": 0.0070280167600505275,
+      "medianMargin": 0.03911250427938715,
+      "example": "I am the spin among the age, the bind between the require, yet I can ignore still, what am I?"
+    },
+    {
+      "skel": "it was _ of the _ _ _ of the _ _ _ the _ of the _",
+      "wins": 43,
+      "winShare": 0.0052955665024630545,
+      "rewardShare": 0.004786175479667608,
+      "medianMargin": 0.03728882287951794,
+      "example": "It was one of the theory cradle forms of the hamster marriage methods the six of the Events."
+    },
+    {
+      "skel": "the is _ of the _ _ _ of the _ _ _ the _ of the _",
+      "wins": 42,
+      "winShare": 0.005172413793103448,
+      "rewardShare": 0.004451070591338492,
+      "medianMargin": 0.04146402614506927,
+      "example": "The is one of the belt garbage events of the patch boring am the sound of the One."
+    },
+    {
+      "skel": "i _ the _ _ the _ the _ between the _ _ i _ the _ what _ i",
+      "wins": 34,
+      "winShare": 0.0041871921182266006,
+      "rewardShare": 0.0031347590191230126,
+      "medianMargin": 0.04834424137118635,
+      "example": "I am the risk among the ridge, the ball between the letter, yet I have the sing, what am I?"
+    },
+    {
+      "skel": "it is _ of the _ _ _ that the _ _ _ the _ _ the i",
+      "wins": 34,
+      "winShare": 0.0041871921182266006,
+      "rewardShare": 0.003793295875905345,
+      "medianMargin": 0.04381243590819393,
+      "example": "It is one of the raw cycle practices that the excite chaos am the salmon among the I."
+    },
+    {
+      "skel": "it is _ of the _ _ _ that the _ _ the the _ of the _",
+      "wins": 34,
+      "winShare": 0.0041871921182266006,
+      "rewardShare": 0.0037591997359628614,
+      "medianMargin": 0.04115880114817782,
+      "example": "It is one of the bullet define examples that the visit height the the word of the One."
+    },
+    {
+      "skel": "i _ the _ _ the _ the _ between the _ _ i _ _ what _ i",
+      "wins": 32,
+      "winShare": 0.003940886699507389,
+      "rewardShare": 0.003029422001393465,
+      "medianMargin": 0.06082788286222538,
+      "example": "I am the risk among the place, the horn between the bamboo, yet I exist still, what am I?"
+    },
+    {
+      "skel": "it is the that the _ _ _ of the _ _ what the _ of the i",
+      "wins": 32,
+      "winShare": 0.003940886699507389,
+      "rewardShare": 0.003386508867647227,
+      "medianMargin": 0.03402834325074283,
+      "example": "It is the that the visit advice events of the quality upgrade what the risk of the I."
+    }
+  ]
+}

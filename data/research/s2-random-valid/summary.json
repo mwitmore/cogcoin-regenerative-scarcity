@@ -1,0 +1,91 @@
+{
+  "finished": "2026-05-13T18:18:25.708Z",
+  "elapsedMinutes": 0.7913,
+  "blocks_processed": 13,
+  "total_samples": 5072,
+  "total_scored": 5072,
+  "total_errors": 0,
+  "total_valid": 5000,
+  "overall_valid_rate": 0.9858044164037855,
+  "samples_per_sec": 106.82842579721134,
+  "per_block": {
+    "946516:34": {
+      "samples": 400,
+      "valid": 393,
+      "valid_rate": 0.9825,
+      "best_blend": "474334793"
+    },
+    "942140:2": {
+      "samples": 400,
+      "valid": 398,
+      "valid_rate": 0.995,
+      "best_blend": "446740299"
+    },
+    "945294:3": {
+      "samples": 400,
+      "valid": 392,
+      "valid_rate": 0.98,
+      "best_blend": "542782415"
+    },
+    "946595:40": {
+      "samples": 400,
+      "valid": 395,
+      "valid_rate": 0.9875,
+      "best_blend": "498853022"
+    },
+    "946080:42": {
+      "samples": 400,
+      "valid": 396,
+      "valid_rate": 0.99,
+      "best_blend": "481640751"
+    },
+    "947265:100": {
+      "samples": 400,
+      "valid": 394,
+      "valid_rate": 0.985,
+      "best_blend": "459525704"
+    },
+    "945960:57": {
+      "samples": 400,
+      "valid": 394,
+      "valid_rate": 0.985,
+      "best_blend": "455860743"
+    },
+    "945885:57": {
+      "samples": 400,
+      "valid": 394,
+      "valid_rate": 0.985,
+      "best_blend": "506371473"
+    },
+    "947317:3": {
+      "samples": 400,
+      "valid": 388,
+      "valid_rate": 0.97,
+      "best_blend": "449060846"
+    },
+    "947364:100": {
+      "samples": 400,
+      "valid": 395,
+      "valid_rate": 0.9875,
+      "best_blend": "427038486"
+    },
+    "947095:34": {
+      "samples": 400,
+      "valid": 395,
+      "valid_rate": 0.9875,
+      "best_blend": "431751792"
+    },
+    "943007:2": {
+      "samples": 400,
+      "valid": 396,
+      "valid_rate": 0.99,
+      "best_blend": "500451626"
+    },
+    "946806:40": {
+      "samples": 272,
+      "valid": 270,
+      "valid_rate": 0.9926470588235294,
+      "best_blend": "532286451"
+    }
+  }
+}

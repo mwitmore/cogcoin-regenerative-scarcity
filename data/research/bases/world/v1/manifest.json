@@ -1,0 +1,26 @@
+{
+  "name": "world",
+  "version": "v1",
+  "created_at": "2026-05-14T23:53:38Z",
+  "corpus_path": "data/research/s2-random-valid/profiles.jsonl",
+  "corpus_sha256": "48624f2e9ab291f4d16b7267d052938d4a4b7a54be7e16b1489e51947b30966e",
+  "corpus_n_sentences": 5000,
+  "corpus_n_skipped": 0,
+  "slot_range": [
+    32,
+    256
+  ],
+  "n_pcs_stored": 30,
+  "rank1_only": false,
+  "build_script": "scripts/basis-build.py",
+  "build_args": {
+    "name": "world",
+    "version": "v1",
+    "corpus": "data/research/s2-random-valid/profiles.jsonl",
+    "rank1_only": false,
+    "notes": "First world basis. Source: S2 random-valid corpus of 5000 gates-passing random structural sentences with no LLM involvement. Represents the geometry of what *can* score high in the cogcoin oracle, independent of mining strategy. Time-invariant unless the canonical scoring bundle changes on-chain."
+  },
+  "git_sha": "6d7c651b68c8d835ef63a5b1650106e186dafc1c",
+  "supersedes": null,
+  "notes": "First world basis. Source: S2 random-valid corpus of 5000 gates-passing random structural sentences with no LLM involvement. Represents the geometry of what *can* score high in the cogcoin oracle, independent of mining strategy. Time-invariant unless the canonical scoring bundle changes on-chain."
+}

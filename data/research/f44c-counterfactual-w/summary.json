@@ -1,0 +1,168 @@
+{
+  "summary": {
+    "config": {
+      "poolSize": 200,
+      "wPool": 300,
+      "verified": 200,
+      "failed": 0
+    },
+    "distinct_W_winners": 30,
+    "distinct_W_winners_frac_of_pool": 0.15,
+    "top_winner_W_share": 0.5733333333333334,
+    "top5_winners_cumulative_W_share": 0.7833333333333333,
+    "effective_number_of_winners": 6.650476299914653,
+    "normalized_entropy": 0.35760192247310174
+  },
+  "winShares": [
+    {
+      "height": 943945,
+      "domainId": 3,
+      "winShare": 0.5733333333333334
+    },
+    {
+      "height": 947523,
+      "domainId": 59,
+      "winShare": 0.06666666666666667
+    },
+    {
+      "height": 947666,
+      "domainId": 59,
+      "winShare": 0.06
+    },
+    {
+      "height": 947606,
+      "domainId": 59,
+      "winShare": 0.043333333333333335
+    },
+    {
+      "height": 944318,
+      "domainId": 3,
+      "winShare": 0.04
+    },
+    {
+      "height": 948540,
+      "domainId": 30,
+      "winShare": 0.04
+    },
+    {
+      "height": 944817,
+      "domainId": 3,
+      "winShare": 0.02
+    },
+    {
+      "height": 947729,
+      "domainId": 103,
+      "winShare": 0.016666666666666666
+    },
+    {
+      "height": 947115,
+      "domainId": 34,
+      "winShare": 0.013333333333333334
+    },
+    {
+      "height": 947585,
+      "domainId": 59,
+      "winShare": 0.013333333333333334
+    },
+    {
+      "height": 942609,
+      "domainId": 2,
+      "winShare": 0.01
+    },
+    {
+      "height": 943996,
+      "domainId": 3,
+      "winShare": 0.01
+    },
+    {
+      "height": 945798,
+      "domainId": 3,
+      "winShare": 0.01
+    },
+    {
+      "height": 946743,
+      "domainId": 3,
+      "winShare": 0.01
+    },
+    {
+      "height": 947225,
+      "domainId": 56,
+      "winShare": 0.01
+    },
+    {
+      "height": 948563,
+      "domainId": 30,
+      "winShare": 0.01
+    },
+    {
+      "height": 946635,
+      "domainId": 56,
+      "winShare": 0.006666666666666667
+    },
+    {
+      "height": 948368,
+      "domainId": 105,
+      "winShare": 0.006666666666666667
+    },
+    {
+      "height": 945610,
+      "domainId": 3,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 945990,
+      "domainId": 56,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 947052,
+      "domainId": 59,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 947396,
+      "domainId": 56,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 947480,
+      "domainId": 100,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 947499,
+      "domainId": 56,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 947543,
+      "domainId": 58,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 947708,
+      "domainId": 100,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 948120,
+      "domainId": 105,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 948265,
+      "domainId": 104,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 948498,
+      "domainId": 30,
+      "winShare": 0.0033333333333333335
+    },
+    {
+      "height": 948518,
+      "domainId": 104,
+      "winShare": 0.0033333333333333335
+    }
+  ]
+}

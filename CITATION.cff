@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Cogcoin regenerative-scarcity replication package"
+message: "If you use this replication package, please cite the field report (arXiv) and this software artifact."
+authors:
+  - given-names: Michael
+    family-names: Witmore
+    email: witmore@witmoreconsulting.com
+repository-code: "https://github.com/mwitmore/cogcoin-regenerative-scarcity"
+url: "https://github.com/mwitmore/cogcoin-regenerative-scarcity"
+license: MIT
+version: 1.0.0
+date-released: 2026-06-24
+keywords:
+  - cogcoin
+  - proof-of-language
+  - bitcoin
+  - computational linguistics
+  - scoring geometry
+  - replication
+preferred-citation:
+  type: article
+  title: "Wasting Assets and Regenerative Scarcity: An Empirical Study of Competitive Text Under Public Scoring"
+  authors:
+    - given-names: Michael
+      family-names: Witmore
+  year: 2026
+  notes: "Observation window heights 941,224–951,464."

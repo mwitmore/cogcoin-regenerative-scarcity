@@ -1,0 +1,182 @@
+{
+  "config": {
+    "maxBlocks": 150,
+    "numPerms": 6,
+    "domainId": 2,
+    "refBlockhash": "00000000000000000000ad45d5cf740f30134e984910108fa3ca3eef851b83de",
+    "processedBlocks": 150
+  },
+  "families": {
+    "riddle": {
+      "n_attempt": 3600,
+      "n_pass": 2688,
+      "gate_pass_rate": 0.7466666666666667,
+      "M1_affordance_meanWild": 421787230.76897323,
+      "sdWild": 52321379.023169994,
+      "M2_tolerance_cv_refBlockMeans": 0.015298999015118291,
+      "refBlockMean": 452794330.4051849,
+      "refBlockSd": 6927300.01492007,
+      "wildBlockSd": 50469932.2532663,
+      "mean_token_len": 14.004464285714286,
+      "perTemplate_meanWild": {
+        "0": 430674039.3088889,
+        "1": 407353105.40555555,
+        "2": 427409511.3333333
+      }
+    },
+    "classification": {
+      "n_attempt": 3600,
+      "n_pass": 1788,
+      "gate_pass_rate": 0.49666666666666665,
+      "M1_affordance_meanWild": 396527735.23378074,
+      "sdWild": 51036244.768874355,
+      "M2_tolerance_cv_refBlockMeans": 0.013941483722733286,
+      "refBlockMean": 429258124.73166645,
+      "refBlockSd": 5984495.158797543,
+      "wildBlockSd": 49628422.45244674,
+      "mean_token_len": 16.986577181208055,
+      "perTemplate_meanWild": {
+        "1": 405608181.6288889,
+        "3": 387324580.1036036
+      }
+    },
+    "list": {
+      "n_attempt": 3600,
+      "n_pass": 2676,
+      "gate_pass_rate": 0.7433333333333333,
+      "M1_affordance_meanWild": 441959650.6356502,
+      "sdWild": 51347144.78613376,
+      "M2_tolerance_cv_refBlockMeans": 0.015462947670531241,
+      "refBlockMean": 469487951.43037015,
+      "refBlockSd": 7259667.624912727,
+      "wildBlockSd": 50937774.77693109,
+      "mean_token_len": 14.663677130044842,
+      "perTemplate_meanWild": {
+        "1": 442628934.384009,
+        "2": 448695289.481982,
+        "3": 434653460.3422222
+      }
+    },
+    "plain_declarative": {
+      "n_attempt": 3600,
+      "n_pass": 3552,
+      "gate_pass_rate": 0.9866666666666667,
+      "M1_affordance_meanWild": 423457426.8510698,
+      "sdWild": 52344255.96092513,
+      "M2_tolerance_cv_refBlockMeans": 0.015422853005405688,
+      "refBlockMean": 455371601.4487612,
+      "refBlockSd": 7023129.271980428,
+      "wildBlockSd": 50313461.24200181,
+      "mean_token_len": 15,
+      "perTemplate_meanWild": {
+        "0": 409601690.7060811,
+        "1": 433296178.5698198,
+        "2": 411915102.5101351,
+        "3": 439016735.6182432
+      }
+    },
+    "metrical": {
+      "n_attempt": 2700,
+      "n_pass": 1788,
+      "gate_pass_rate": 0.6622222222222223,
+      "M1_affordance_meanWild": 401980978.6118568,
+      "sdWild": 50402251.2005754,
+      "M2_tolerance_cv_refBlockMeans": 0.016037348343817755,
+      "refBlockMean": 434635802.4416666,
+      "refBlockSd": 6970405.766451763,
+      "wildBlockSd": 49203327.492562406,
+      "mean_token_len": 12.503355704697986,
+      "perTemplate_meanWild": {
+        "0": 394116759.1599099,
+        "2": 409740341.80444443
+      }
+    },
+    "rhymed": {
+      "n_attempt": 2700,
+      "n_pass": 1788,
+      "gate_pass_rate": 0.6622222222222223,
+      "M1_affordance_meanWild": 422563242.8909396,
+      "sdWild": 51427146.79721225,
+      "M2_tolerance_cv_refBlockMeans": 0.014315488231635518,
+      "refBlockMean": 444006526.412778,
+      "refBlockSd": 6356170.203631489,
+      "wildBlockSd": 51111141.58055679,
+      "mean_token_len": 15.496644295302014,
+      "perTemplate_meanWild": {
+        "0": 423120440.5466667,
+        "1": 421998515.5371622
+      }
+    },
+    "action_narrative": {
+      "n_attempt": 3600,
+      "n_pass": 0,
+      "gate_pass_rate": 0,
+      "M1_affordance_meanWild": 0,
+      "sdWild": 0,
+      "M2_tolerance_cv_refBlockMeans": 0,
+      "refBlockMean": 0,
+      "refBlockSd": 0,
+      "wildBlockSd": 0,
+      "mean_token_len": 0,
+      "perTemplate_meanWild": {}
+    }
+  },
+  "contrasts": {
+    "riddle_vs_plain_declarative": {
+      "cohens_d_wild": -0.031914888634742004,
+      "mean_diff_wild": -1670196.0820965767,
+      "bootstrap95_meanDiff": [
+        -2779340.1227477193,
+        509594.1112987995
+      ]
+    },
+    "riddle_vs_metrical": {
+      "cohens_d_wild": 0.3855548425616814,
+      "mean_diff_wild": 19806252.157116413,
+      "bootstrap95_meanDiff": [
+        17936755.793327034,
+        21601962.16906762
+      ]
+    },
+    "riddle_vs_rhymed": {
+      "cohens_d_wild": -0.014958926732517537,
+      "mean_diff_wild": -776012.121966362,
+      "bootstrap95_meanDiff": [
+        -2419925.449259281,
+        904616.3634113073
+      ]
+    },
+    "classification_vs_plain_declarative": {
+      "cohens_d_wild": -0.5209403357663718,
+      "mean_diff_wild": -26929691.617289066,
+      "bootstrap95_meanDiff": [
+        -28559138.86739868,
+        -24736460.331644118
+      ]
+    },
+    "list_vs_plain_declarative": {
+      "cohens_d_wild": 0.35685444036174496,
+      "mean_diff_wild": 18502223.78458041,
+      "bootstrap95_meanDiff": [
+        17436388.425863326,
+        20057564.7896021
+      ]
+    },
+    "plain_declarative_vs_metrical": {
+      "cohens_d_wild": 0.41797261397095703,
+      "mean_diff_wild": 21476448.23921299,
+      "bootstrap95_meanDiff": [
+        19170852.45242119,
+        23222064.3330518
+      ]
+    },
+    "plain_declarative_vs_rhymed": {
+      "cohens_d_wild": 0.017233052992626743,
+      "mean_diff_wild": 894183.9601302147,
+      "bootstrap95_meanDiff": [
+        -1392245.0923423767,
+        2355223.995213926
+      ]
+    }
+  }
+}
