@@ -1,9 +1,8 @@
-# Cogcoin regenerative-scarcity — replication package
+# Cogcoin template-convergence — replication package
 
-Companion replication package for **Wasting Assets and Regenerative Scarcity: An Empirical Study of Competitive Text Under Public Scoring** (Witmore, 2026; arXiv forthcoming).
+Companion replication package for **Template Convergence and Advantage Decay in a Public Text-Scoring Game: An Empirical Study of Cogcoin Mining** (Witmore, 2026; arXiv forthcoming).
 
 - **Protocol specification:** [cogcoin.org/whitepaper.md](https://cogcoin.org/whitepaper.md)
-- **Related work (prompt lab):** [RELATED-WORK.md](RELATED-WORK.md)
 
 This repository holds on-chain corpora and analysis code for measured claims in heights **941,224–951,464**. It does not include mining prompts, live client configuration, or infrastructure setup.
 
@@ -12,8 +11,8 @@ This repository holds on-chain corpora and analysis code for measured claims in 
 Requirements: **Node.js ≥ 20**, **npm**. Optional: **Python 3** for temporal-stability checks in `reproduce:full`.
 
 ```bash
-git clone https://github.com/mwitmore/cogcoin-regenerative-scarcity.git
-cd cogcoin-regenerative-scarcity
+git clone https://github.com/mwitmore/cogcoin-template-convergence.git
+cd cogcoin-template-convergence
 npm install
 npm run reproduce
 ```
@@ -88,11 +87,11 @@ Prose and analysis scripts were developed with LLM-assisted editing; headline st
 ## Citation
 
 ```bibtex
-@software{witmore2026cogcoin_regenerative_scarcity_replication,
+@software{witmore2026cogcoin_template_convergence_replication,
   author = {Witmore, Michael},
-  title = {Replication package: Wasting Assets and Regenerative Scarcity},
+  title = {Replication package: Template Convergence and Advantage Decay in a Public Text-Scoring Game},
   year = {2026},
-  url = {https://github.com/mwitmore/cogcoin-regenerative-scarcity}
+  url = {https://github.com/mwitmore/cogcoin-template-convergence}
 }
 ```
 

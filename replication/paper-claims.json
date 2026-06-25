@@ -7,7 +7,7 @@
     {
       "id": "obs5_principal_angle_deg",
       "section": "Â§4 / Observation 5",
-      "description": "Top H1âÿÿH2 principal angle (degrees)",
+      "description": "Top H1ï¿½ï¿½ï¿½H2 principal angle (degrees)",
       "path": "data/research/s2-random-valid/f46-h1h2-subspace.json",
       "json": "principal_angles.angle_deg[0]",
       "expected": 4.36,

@@ -1,12 +1,12 @@
 cff-version: 1.2.0
-title: "Cogcoin regenerative-scarcity replication package"
+title: "Cogcoin template-convergence replication package"
 message: "If you use this replication package, please cite the field report (arXiv) and this software artifact."
 authors:
   - given-names: Michael
     family-names: Witmore
     email: witmore@witmoreconsulting.com
-repository-code: "https://github.com/mwitmore/cogcoin-regenerative-scarcity"
-url: "https://github.com/mwitmore/cogcoin-regenerative-scarcity"
+repository-code: "https://github.com/mwitmore/cogcoin-template-convergence"
+url: "https://github.com/mwitmore/cogcoin-template-convergence"
 license: MIT
 version: 1.0.0
 date-released: 2026-06-24
@@ -19,7 +19,7 @@ keywords:
   - replication
 preferred-citation:
   type: article
-  title: "Wasting Assets and Regenerative Scarcity: An Empirical Study of Competitive Text Under Public Scoring"
+  title: "Template Convergence and Advantage Decay in a Public Text-Scoring Game: An Empirical Study of Cogcoin Mining"
   authors:
     - given-names: Michael
       family-names: Witmore

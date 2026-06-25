@@ -8,7 +8,7 @@ All files in `data/` are **frozen snapshots** for the observation window unless 
 |-------|-------|
 | Height range | 941,224 – 951,464 |
 | Blocks with mining activity | 6,834 |
-| Companion report | *Wasting Assets and Regenerative Scarcity: An Empirical Study of Competitive Text Under Public Scoring* (Witmore, 2026) |
+| Companion report | *Template Convergence and Advantage Decay in a Public Text-Scoring Game: An Empirical Study of Cogcoin Mining* (Witmore, 2026) |
 
 The winners cache may include rows slightly outside this window; scripts that need the window should filter on `height`.
 

@@ -1,13 +1,13 @@
 {
-  "name": "cogcoin-regenerative-scarcity",
+  "name": "cogcoin-template-convergence",
   "version": "1.0.0",
-  "description": "Replication package for Wasting Assets and Regenerative Scarcity (Witmore 2026).",
+  "description": "Replication package for Template Convergence and Advantage Decay (Witmore 2026).",
   "type": "module",
   "license": "MIT",
   "author": "Michael Witmore <witmore@witmoreconsulting.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mwitmore/cogcoin-regenerative-scarcity.git"
+    "url": "https://github.com/mwitmore/cogcoin-template-convergence.git"
   },
   "scripts": {
     "reproduce": "node bin/reproduce.mjs",
